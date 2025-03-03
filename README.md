@@ -12,7 +12,7 @@ Sonuç Ekranı: Kullanıcının kazandığı ya da kaybettiği bilgisi gösteril
 
 Nasıl Çalışır?
 
-Kullanıcı "Başla" butonuna bastığında rastgele bir sayı belirlenir.
+Kullanıcı " Oyuna Başla" butonuna bastığında rastgele bir sayı belirlenir.
 
 Kullanıcı tahminini girer ve "Tahmin Et" butonuna basar.
 
